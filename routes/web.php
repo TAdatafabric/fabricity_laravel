@@ -21,7 +21,7 @@ Route::get('/about', function () {
     return view('about', [
         "name" => "Fabricity",
         "email" => "ini emailnya",
-        "image" => "blackscreen.jpg"
+        "image" => "coba.jpg"
     ]);
 });
 
